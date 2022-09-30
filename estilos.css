@@ -1,0 +1,107 @@
+body{
+    background: url(img/todopelis.jpg);
+    background-size: cover;
+}
+#boton{
+    border: none;
+    outline: none;
+    top: 62%;
+    left: 35.5%;
+    position: absolute;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    background: red;
+    color: white;
+}
+#boton:hover{
+    background-color: gray;
+    color: black;
+}
+#boton2:hover{
+    background-color: gray;
+    color: black;
+}
+#h{
+    margin: 0;
+    top: 35%;
+    left: 35%;
+    position: absolute;
+    text-align: center;
+    color: white;
+    line-height : 50px;
+}
+#p{
+    margin: 0;
+    top: 55%;
+    left: 39%;
+    position: absolute;
+    text-align: center;
+    color: rgb(12, 48, 125);
+    background-color: azure;
+}
+#correo{
+    top: 62%;
+    left: 32%;
+    position: absolute;
+    width: 300px;
+    height: 50px;
+}
+#boton2{
+    border: none;
+    outline: none;
+    top: 62%;
+    left: 51.5%;
+    position: absolute;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    line-height : 18px;
+    background: red;
+    color: white;
+}
+#boton4{
+    background: red;
+    color: white;
+}
+#boton4:hover{
+    background: greenyellow;
+    color: black;
+}
+#p1{
+    color: rgb(24, 8, 255);
+    top: 70%;
+    left: 30%;
+    position: absolute;
+    text-align: center;
+    background-color: aliceblue;
+}
+#staticBackdrop{
+    width: 500px;
+    height: 500px;
+    color: black;
+    
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+#h10{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#card1{
+    background-color: gainsboro;
+    height: 350px;
+}
+#card2{
+    background-color: gainsboro;
+    height: 350px;
+}
+#card3{
+    background-color: gainsboro;
+    height: 350px;
+}
+
+
